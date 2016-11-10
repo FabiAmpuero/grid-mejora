@@ -83,7 +83,7 @@ header .img-responsive {
     width: 100%;
     border: 4px double #d6d6d6;
 }
-/*------------------------------------------------------------------------------------------Slider--*/
+/*------------------------------------------------------------------------------------------SLIDER--*/
 .lista-img .nav-link h3 {
     border-bottom: 3px solid #ccc;
     margin:20px 0;
@@ -114,12 +114,15 @@ header .img-responsive {
     padding-top: 20px;
     line-height: 1.5em;
 }
+.lista-img .nav-link p a {
+    color: #4987bc;
+}
 .nav-link {
     padding-left: 45px;
 }
 
 
-
+/*-------------------------------------------------------------------------------------- FOOTER -----*/
 
 .pie {
     background: #393939;
@@ -158,12 +161,4 @@ header .img-responsive {
 .read {
     color: #e5e5e5;
 }
-
-
-
-
-
-
-
-
 
